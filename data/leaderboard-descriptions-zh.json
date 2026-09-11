@@ -38,6 +38,7 @@
   "dsh-tauri-desk/deepseek-harness-desktop": "DeepSeek Harness Tauri 桌面版：5MB 安装包、零环境配置、内置插件预设，支持 Windows/macOS/Linux。",
   "e2mcc/dsh-popout-sidebar": "侧边栏弹出插件：把侧边栏拖出为独立浏览器标签页，可放到第二块显示器上双屏使用",
   "elysia395/dsh-wallpaper-engine": "把本机 Wallpaper Engine 壁纸变成 DSH 网页背景：动态视频播放、液态玻璃设置窗与自动轮播。",
+  "flizzywine/dsh-tavern": "基于 DSH 的 SillyTavern 类文字游戏 Agent：候选项生成、对话式人物卡编辑、剧本模式与素材抽取",
   "fufankeji/deepseek-harness-studio": "DeepSeek Harness 零代码桌面端（Windows/macOS）：内置插件发现、热点推送、一键安装管理、AI 推荐与视觉增强。",
   "howmp/dsh-pentest": "面向 DeepSeek Harness（dsh）的渗透测试模式（@CloverSecLabs）。",
   "huiliyi37/dsh-tianshu-tui": "交互式终端 UI 插件：ANSI 极简渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与 LSP 诊断。",
