@@ -10,6 +10,7 @@
   "GraySilver/dsh-evolve-modes": "可组合任务控制 + 隔离且经人工复核的 Agent 自进化，让工作方式可持续改进。",
   "Han-1413141/dsh-cost-meter": "会话成本仪表：会话/日成本、预算与各家余额查询、token 热力图与峰谷定价切换提醒。",
   "Lum1104/dsh-browser": "一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+  "Mars-Sea/dsh-commandcode-provider": "Command Code 服务商接入插件：模型直连与实时目录、套餐感知的模型选择、推理力度、图片输入、联网搜索与多账号轮换。",
   "MeteorNOX/DeepSeek-Balance-Whale-Widget": "住在 DSH 界面右下角的小鲸鱼娘，帮你盯着 DeepSeek 账户余额：QQ 弹弹、拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用。",
   "Minglink/dsh-infinite-gen-3": "面向 DeepSeek-V4 的系统提示注入插件「无限三代」：破甲版只保留提示词注入与客户端状态条，砍掉工具增强面。",
   "Minglink/dsh-infinite-gen-4": "DeepSeek V4.1/Flash 网络安全红队评测插件：双层提示词注入内核、60+ 黑盒突破车道与客户端实时状态条。",
