@@ -4,7 +4,7 @@ DSH 插件全量目录的「开发者工具」分册 / The "Developer Tools" vol
 
 [← 目录总览 / Catalog index](../CATALOG.md) · [中文首页](../README.md) · [English home](../README_EN.md) · [Star Top 200](../TOP200.md) · [JSON data](../data/repositories.json)
 
-- 本册收录 / Entries in this volume: **551**
+- 本册收录 / Entries in this volume: **552**
 - 快照日期 / Snapshot date: **2026-09-13 UTC**
 - 最近人工复核 / Last review merge: **2026-09-14**
 
@@ -560,6 +560,7 @@ DSH 插件全量目录的「开发者工具」分册 / The "Developer Tools" vol
 | [zhongjie10086/dsh-adaptive-native](https://github.com/zhongjie10086/dsh-adaptive-native) | Windows-native Adaptive preset for DeepSeek Harness | JavaScript | 0 | NOASSERTION | 2026-09-09 |
 | [zoahdev/dsh-firstrun](https://github.com/zoahdev/dsh-firstrun) | First-run health check for DeepSeek Harness (dsh): verifies Node/pnpm/dsh toolchain, profile, API key (names only), workspace and registry, then prints actionable next steps. Zero runtime deps, read-only. CLI + agent-callable quickstart tool. | TypeScript | 0 | MIT | 2026-09-12 |
 | [zoyluoblue/deepseek-harness-rewind](https://github.com/zoyluoblue/deepseek-harness-rewind) | dsh plugin: snapshot your workspace every turn and restore the files to any earlier point. A rewind/undo for DeepSeek Harness coding sessions — your own git repo is never touched. | TypeScript | 0 | MIT | 2026-09-12 |
+| [zukunftsholz/dsh-zgit](https://github.com/zukunftsholz/dsh-zgit) | 敏捷的 git 替代插件，提升 DSH agent 效率 \| An agile Git-alternative plugin designed to boost DSH Agent efficiency. | TypeScript | 0 | MIT | 2026-08-20 |
 | [zzdhsxk/dsh-session-migration-repair](https://github.com/zzdhsxk/dsh-session-migration-repair) | Repair legacy (format v0) DSH session logs that the current build refuses to migrate — scan, back up, fix, and verify offline against the real v0→v3 migration chain. | JavaScript | 0 | MIT | 2026-09-11 |
 
 ## 其他分册 / Other volumes

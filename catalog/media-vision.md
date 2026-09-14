@@ -4,7 +4,7 @@ DSH 插件全量目录的「设计、媒体与视觉」分册 / The "Design, Med
 
 [← 目录总览 / Catalog index](../CATALOG.md) · [中文首页](../README.md) · [English home](../README_EN.md) · [Star Top 200](../TOP200.md) · [JSON data](../data/repositories.json)
 
-- 本册收录 / Entries in this volume: **648**
+- 本册收录 / Entries in this volume: **647**
 - 快照日期 / Snapshot date: **2026-09-13 UTC**
 - 最近人工复核 / Last review merge: **2026-09-14**
 
@@ -655,7 +655,6 @@ DSH 插件全量目录的「设计、媒体与视觉」分册 / The "Design, Med
 | [zkl22492-star/Toolfolk-for-DSH](https://github.com/zkl22492-star/Toolfolk-for-DSH) | 把 DSH 的插件与模型调用过程可视化成 3D 办公室 | JavaScript | 0 | MIT | 2026-09-13 |
 | [zoahdev/dsh-vision](https://github.com/zoahdev/dsh-vision) | Give DeepSeek Harness eyes: analyze images with an OpenAI-compatible vision model via a vision_analyze tool. | TypeScript | 0 | MIT | 2026-09-09 |
 | [zoumutou/dsh-attachment-downscale](https://github.com/zoumutou/dsh-attachment-downscale) | DSH 插件：图片附件超限自动降级（2000px / 3.5MB / 4000万像素） | JavaScript | 0 | MIT | 2026-09-09 |
-| [zukunftsholz/dsh-zgit](https://github.com/zukunftsholz/dsh-zgit) | 敏捷的 git 替代插件，提升 DSH agent 效率 \| An agile Git-alternative plugin designed to boost DSH Agent efficiency. | TypeScript | 0 | MIT | 2026-08-20 |
 | [zzdream67/dsh-vision-bridge](https://github.com/zzdream67/dsh-vision-bridge) | Let text-only models read images in DeepSeek Harness | JavaScript | 0 | MIT | 2026-08-21 |
 | [zzy6-a/vision-use](https://github.com/zzy6-a/vision-use) | DSH Computer Use：让 Agent 看见并操作 Windows 桌面（Windows 原生 / WSL 自动识别）；视觉通道 + 鼠标键盘 + Codex 风格蓝色覆盖层，Esc 随时中止。 | PowerShell | 0 | MIT | 2026-09-11 |
 

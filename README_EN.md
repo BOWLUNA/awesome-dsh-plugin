@@ -49,7 +49,7 @@ mindmap
     Utilities and more · 748
       Files and encodings
       Format conversion
-    Design media and vision · 648
+    Design media and vision · 647
       Image understanding and OCR
       Design canvas and UI restoration
     Knowledge and research · 635
@@ -60,7 +60,7 @@ mindmap
       Plugin markets and registries
       Templates and scaffolds
       Guides and handbooks
-    Developer tools · 551
+    Developer tools · 552
       Git and diff
       Sandbox and runtimes
       Debugging and diagnostics
