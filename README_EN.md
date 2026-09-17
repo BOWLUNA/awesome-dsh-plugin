@@ -28,12 +28,12 @@
 ## 🗺️ Ecosystem at a glance
 
 <!-- dsh:panorama:start -->
-As of 2026-09-16 the catalog lists **12,866** verified repositories. Here is the shape of it:
+As of 2026-09-16 the catalog lists **12,868** verified repositories. Here is the shape of it:
 
 ```mermaid
 mindmap
-  root((DSH ecosystem 12866))
-    Agents automation workflows · 4627
+  root((DSH ecosystem 12868))
+    Agents automation workflows · 4628
       Scheduled loops and event wakeups
       Long-term memory and self-evolution
       Approval budget and checkpoints
@@ -64,7 +64,7 @@ mindmap
       Git and diff
       Sandbox and runtimes
       Debugging and diagnostics
-    Integrations and sharing · 361
+    Integrations and sharing · 362
       Chat import and sharing
       Remote access
       IM and external integrations
@@ -357,7 +357,7 @@ Self-submitted recommendations from plugin authors, following the [contributing 
 - **Downstream market file:** [data/market.json](./data/market.json) is the curated file downstream markets consume (e.g. the DSH desktop plugin market): the snapshot plus curation, filtered, cleaned, and dealt round-robin across categories (≤600 rows, ≤500 KB). It is rebuilt on every daily snapshot refresh and immediately after every curation merge; the field and generation rules live in the downstream [publishing spec](https://github.com/bruc3van/dsh-desktop-safe-market/blob/master/docs/market-json-spec.md). The same runs also publish [MARKET.md](./MARKET.md), a read-only star-ranked rendering of the file for previewing the market on GitHub without installing anything.
 - **Chinese by default, bilingual:** native readability for the main audience, with a dedicated English entry point.
 
-As of 2026-09-16, the catalog lists **12,866** repositories across **33** primary languages; **11,475** declare a license and **12,785** are neither archived nor disabled (the catalog updates after each human review merge — see [CATALOG.md](./CATALOG.md) for current numbers).
+As of 2026-09-16, the catalog lists **12,868** repositories across **33** primary languages; **11,477** declare a license and **12,787** are neither archived nor disabled (the catalog updates after each human review merge — see [CATALOG.md](./CATALOG.md) for current numbers).
 
 ## ⚠️ Usage & safety
 

@@ -4,7 +4,7 @@ DSH 插件全量目录的「集成与分享」分册 / The "Integrations & Shari
 
 [← 目录总览 / Catalog index](../CATALOG.md) · [中文首页](../README.md) · [English home](../README_EN.md) · [Star Top 200](../TOP200.md) · [JSON data](../data/repositories.json)
 
-- 本册收录 / Entries in this volume: **361**
+- 本册收录 / Entries in this volume: **362**
 - 快照日期 / Snapshot date: **2026-09-16 UTC**
 - 最近人工复核 / Last review merge: **2026-09-17**
 
@@ -19,6 +19,7 @@ DSH 插件全量目录的「集成与分享」分册 / The "Integrations & Shari
 | [SCSpotato/dsh-remote](https://github.com/SCSpotato/dsh-remote) | Native Android client to remotely control DeepSeek Harness (DSH) from your phone | Kotlin | 98 | GPL-3.0 | 2026-09-16 |
 | [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) | DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。 | JavaScript | 87 | MIT | 2026-09-16 |
 | [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) | Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace. | JavaScript | 82 | MIT | 2026-09-16 |
+| [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) | Server-grade gateway that turns DeepSeek Harness into a multi-tenant platform: remote access + auto HTTPS, subuser permissions & quotas, sandbox enforcement, encrypted auth, audit log. | TypeScript | 57 | GPL-3.0 | 2026-09-16 |
 | [zhuiyueya/dsh-im-gateway](https://github.com/zhuiyueya/dsh-im-gateway) | 把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 \| Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms | TypeScript | 47 | MIT | 2026-09-10 |
 | [zexadev/dsh-tether](https://github.com/zexadev/dsh-tether) | Mobile client for the DeepSeek Harness — use the dsh on your dev machine from your Android or iOS phone, remotely across networks, peer-to-peer over iroh with no server to set up (falls back to a relay that only sees ciphertext) | Rust | 44 | MIT | 2026-09-13 |
 | [PlutoKeating/dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) | DeepSeek Harness (dsh) 接入飞书/Lark bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent、跨会话通知、对话内模型/密钥管理与安全网守护（dsh 崩溃后飞书仍可自救）。A scan-to-connect bridge bot connecting DeepSeek Harness (dsh) into Feishu/Lark: streaming cards, workspaces, parallel tasks, multi-role agents, cross-session notify, in-chat model/key management, and a safety-net guardian. | TypeScript | 39 | AGPL-3.0 | 2026-09-14 |

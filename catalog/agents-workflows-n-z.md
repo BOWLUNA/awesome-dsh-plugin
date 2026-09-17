@@ -4,7 +4,7 @@ DSH 插件全量目录的「Agent、自动化与工作流（N–Z）」分册 / 
 
 [← 目录总览 / Catalog index](../CATALOG.md) · [中文首页](../README.md) · [English home](../README_EN.md) · [Star Top 200](../TOP200.md) · [JSON data](../data/repositories.json)
 
-- 本册收录 / Entries in this volume: **2608**
+- 本册收录 / Entries in this volume: **2609**
 - 快照日期 / Snapshot date: **2026-09-16 UTC**
 - 最近人工复核 / Last review merge: **2026-09-17**
 
@@ -1160,6 +1160,7 @@ DSH 插件全量目录的「Agent、自动化与工作流（N–Z）」分册 / 
 | [PengPeng6845/dsh-balance](https://github.com/PengPeng6845/dsh-balance) | DeepSeek Harness 侧边栏真实 API 余额监控：直连官方 /user/balance，SSE 即时推送，只显示真实数据不做估算。 | JavaScript | 0 | MIT | 2026-09-09 |
 | [pengxuding/dsh-plugin-judge](https://github.com/pengxuding/dsh-plugin-judge) | DSH 插件价值裁判：装前审核（源码静态扫描 + LLM 裁判）、装后审计与模型切换复核提醒 · Plugin value auditor for DeepSeek Harness. | JavaScript | 0 | MIT | 2026-08-15 |
 | [pengyonglei/dsh-plugins](https://github.com/pengyonglei/dsh-plugins) | A repository for developing various interesting or useful deepseek-harness plugins. | TypeScript | 0 | Apache-2.0 | 2026-08-18 |
+| [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) | Read-only MCP server over the dsh-plugin-certification registry: get_certification, list_certified, certification_spec. | JavaScript | 0 | Apache-2.0 | 2026-09-13 |
 | [PerryLink/dsh-plugin-upgrade-015](https://github.com/PerryLink/dsh-plugin-upgrade-015) | Merged DSH plugin upgrade corridor: dsh-v0.1.3-alpha.1 -> dsh-v0.1.5-rc.1. Two-leg evidence-bound version card plus a zero-dependency seam scanner (npx dsh-plugin-upgrade-015-scan). | JavaScript | 0 | Apache-2.0 | 2026-09-13 |
 | [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) | TickTick (Dida365) task bridge for DeepSeek Harness: Session-header task panel (list filter, undone/completed views, search, drag reorder), 11 curated agent tools, settings card, over the official TickTick MCP endpoint. | TypeScript | 0 | Apache-2.0 | 2026-09-16 |
 | [Phantomcyber-ai/dsh-skill-router](https://github.com/Phantomcyber-ai/dsh-skill-router) | Intent-level skill auto-routing for DeepSeek Harness: routes every user message against the skill catalog and injects the matching skill body automatically | JavaScript | 0 | MIT | 2026-09-02 |
