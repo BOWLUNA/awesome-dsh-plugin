@@ -4,9 +4,9 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 
 [← 目录总览 / Catalog index](../CATALOG.md) · [中文首页](../README.md) · [English home](../README_EN.md) · [Star Top 200](../TOP200.md) · [JSON data](../data/repositories.json)
 
-- 本册收录 / Entries in this volume: **777**
-- 快照日期 / Snapshot date: **2026-09-19 UTC**
-- 最近人工复核 / Last review merge: **2026-09-20**
+- 本册收录 / Entries in this volume: **791**
+- 快照日期 / Snapshot date: **2026-09-20 UTC**
+- 最近人工复核 / Last review merge: **2026-09-21**
 
 | Project | Description | Language | Stars | License | Updated |
 | --- | --- | --- | ---: | --- | --- |
@@ -15,9 +15,9 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) | 左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档 | JavaScript | 47 | MIT | 2026-09-19 |
 | [SepineTam/cnki-mcp](https://github.com/SepineTam/cnki-mcp) | An MCP server for reach CNKI.  | Python | 32 | GPL-3.0 | 2026-09-18 |
 | [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) | 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插 | JavaScript | 24 | MIT | 2026-09-18 |
-| [Lanxing6480/dsh-galgame](https://github.com/Lanxing6480/dsh-galgame) | 我要成为Galgame高手！！将你的Vibe coding界面修改成为Galgame的样子，在不影响工作的情况下和赏心悦目的DeepSeek娘进行友好互动 | TypeScript | 18 | NOASSERTION | 2026-09-17 |
+| [Lanxing6480/dsh-galgame](https://github.com/Lanxing6480/dsh-galgame) | 我要成为Galgame高手！！将你的Vibe coding界面修改成为Galgame的样子，在不影响工作的情况下和赏心悦目的DeepSeek娘进行友好互动 | TypeScript | 19 | NOASSERTION | 2026-09-20 |
 | [omdsh-dev/stent](https://github.com/omdsh-dev/stent) | 灵感来源于MC Fabric的Cordis/DSH hook处理器 | TypeScript | 18 | — | 2026-09-11 |
-| [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) | 让你的DSH完美适配opencodeg-go套餐 | TypeScript | 16 | MIT | 2026-09-19 |
+| [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) | 让你的DSH完美适配opencodeg-go套餐 | TypeScript | 17 | MIT | 2026-09-20 |
 | [chenw2759-wq/dsh-plugin-healthcheck](https://github.com/chenw2759-wq/dsh-plugin-healthcheck) | 害怕插件装了就崩溃？用这个插件帮你检测插件是否正常/是否含木马！ | JavaScript | 15 | MIT | 2026-09-15 |
 | [Moeblack/deepseek-manners](https://github.com/Moeblack/deepseek-manners) | DSH 插件：给每次消息后注入感谢语 \| DSH plugin: inject a thank-you line after every message (deepseek-manners) | TypeScript | 14 | — | 2026-09-16 |
 | [omdsh-dev/dsh-security-audit](https://github.com/omdsh-dev/dsh-security-audit) | DSH 本机安全审计插件：配置/插件来源/会话/网络暴露面，只读脱敏风险报告 | TypeScript | 14 | MIT | 2026-09-17 |
@@ -31,34 +31,36 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [lcgash/dsh-plugin-uw](https://github.com/lcgash/dsh-plugin-uw) | Merge multiple directories into one DSH session with configurable write scopes: primary only, all members via common ancestor, or unrestricted. | TypeScript | 11 | — | 2026-09-14 |
 | [gameswu/dsh-plugin-background](https://github.com/gameswu/dsh-plugin-background) | dsh壁纸插件 | TypeScript | 10 | MIT | 2026-09-13 |
 | [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) | 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 \| After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips | TypeScript | 10 | NOASSERTION | 2026-09-13 |
-| [HuanLinOTO/dsh-plugin-interpreters](https://github.com/HuanLinOTO/dsh-plugin-interpreters) | 暴露 run_python/run_node 工具，通过 stdin 执行代码返回 stdout/stderr/exit，含解释器路径配置卡 \| Exposes run_python/run_node tools that execute code via stdin and return stdout/stderr/exit, with interpreter-path config card | JavaScript | 10 | NOASSERTION | 2026-09-11 |
+| [HuanLinOTO/dsh-plugin-interpreters](https://github.com/HuanLinOTO/dsh-plugin-interpreters) | 暴露 run_python/run_node 工具，通过 stdin 执行代码返回 stdout/stderr/exit，含解释器路径配置卡 \| Exposes run_python/run_node tools that execute code via stdin and return stdout/stderr/exit, with interpreter-path config card | JavaScript | 9 | NOASSERTION | 2026-09-20 |
 | [HuanLinOTO/dsh-plugin-sleep](https://github.com/HuanLinOTO/dsh-plugin-sleep) | 向模型暴露 sleep 工具，按指定毫秒暂停执行后返回，支持取消/clamp \| Exposes a sleep tool that pauses for specified ms then returns, with cancellation/clamping | TypeScript | 9 | NOASSERTION | 2026-09-14 |
 | [le-soleil-se-couche/dsh-token-cost](https://github.com/le-soleil-se-couche/dsh-token-cost) | 在对话页面直接查看消耗费用（嵌入官方底部状态条，点击看明细）；设置中汇总用量与费用，并可自定义其他模型单价 | TypeScript | 9 | — | 2026-09-18 |
 | [meto-ventus/dsh-deepseek-usage](https://github.com/meto-ventus/dsh-deepseek-usage) | DeepSeek API 用量监测 DSH 插件：悬浮球 + 展开面板，展示开放平台真实余额、累计消费、今日消费、请求次数、Tokens 与分模型用量，支持手动登录获取 userToken。 | JavaScript | 9 | — | 2026-09-08 |
-| [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) | dsh plugins | TypeScript | 9 | MIT | 2026-09-18 |
+| [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) | dsh plugins | TypeScript | 9 | MIT | 2026-09-20 |
 | [shaoshi20/dshscan](https://github.com/shaoshi20/dshscan) | Security scanner for DSH plugins: static and semantic passes over plugin source, DSH-specific attack-surface rules, npm audit, batch scanning, and an HTML report with per-finding severity and evidence. | TypeScript | 9 | MIT | 2026-09-12 |
 | [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) | 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） \| Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry) | JavaScript | 8 | NOASSERTION | 2026-09-12 |
 | [JustGenius-s/DSH-Plugs](https://github.com/JustGenius-s/DSH-Plugs) | DSH Plugins Cellection | TypeScript | 8 | — | 2026-09-18 |
 | [omdsh-dev/dsh-session-health](https://github.com/omdsh-dev/dsh-session-health) | DSH 会话健康检查插件：多帧 zstd 会话文件的帧级扫描诊断（torn/损坏/空会话检测），零依赖只读，注册 session_health 工具 | TypeScript | 8 | MIT | 2026-09-12 |
 | [Yuer6327/NoLetMe](https://github.com/Yuer6327/NoLetMe) | Deepseek v4 神鬼二象性观测面板 | TypeScript | 8 | MIT | 2026-09-12 |
+| [zeng6125-rgb/dsh-llm-retry-settings](https://github.com/zeng6125-rgb/dsh-llm-retry-settings) | DSH 插件：LLM 自动重试设置卡片——重试次数/退避/抖动与 25 个错误码可勾选（也能自己输入），可按 provider/model 单独设策略、回答被输出 token 上限截断时自动续写且提示词可改，内置重试观测面板，改完实时生效。 | JavaScript | 8 | MIT | 2026-09-20 |
 | [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) | DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细） | JavaScript | 7 | — | 2026-09-04 |
 | [Acidmoon/DIzzy-DSH](https://github.com/Acidmoon/DIzzy-DSH) | My DSH plugins | JavaScript | 7 | — | 2026-09-16 |
+| [fan56/dsh-dcp](https://github.com/fan56/dsh-dcp) | dsh plugin: deterministic context compression backend — zero LLM calls, reproducible compression | JavaScript | 7 | MIT | 2026-09-19 |
 | [lihang-lh/dsh-task-panel](https://github.com/lihang-lh/dsh-task-panel) | 在 AI 时代让自己当老板，只负责发布和验收 | JavaScript | 7 | MIT | 2026-09-18 |
-| [zeng6125-rgb/dsh-llm-retry-settings](https://github.com/zeng6125-rgb/dsh-llm-retry-settings) | DSH 插件：LLM 自动重试设置卡片——重试次数/退避/抖动与 25 个错误码可勾选（也能自己输入），可按 provider/model 单独设策略、回答被输出 token 上限截断时自动续写且提示词可改，内置重试观测面板，改完实时生效。 | JavaScript | 7 | MIT | 2026-09-16 |
 | [Andrew111888/dsh-plugin-balance](https://github.com/Andrew111888/dsh-plugin-balance) | DSH 插件：DeepSeek / OpenCode Go 额度悬浮窗 + DSH 会话 token 用量统计与官方峰谷价费用估算 | JavaScript | 6 | BSD-3-Clause | 2026-09-16 |
 | [bill9109/dsh-101](https://github.com/bill9109/dsh-101) | DSH 文档阅读模式 | TypeScript | 6 | BSD-3-Clause | 2026-09-09 |
 | [codeMonkey-Pine/dsh-wallpaper](https://github.com/codeMonkey-Pine/dsh-wallpaper) | Wallpaper Engine 壁纸联动插件 | TypeScript | 6 | Apache-2.0 | 2026-09-09 |
 | [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) | 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。 | JavaScript | 6 | MIT | 2026-09-12 |
-| [fan56/dsh-dcp](https://github.com/fan56/dsh-dcp) | dsh plugin: deterministic context compression backend — zero LLM calls, reproducible compression | JavaScript | 6 | MIT | 2026-09-17 |
 | [Hanmiao33/dsh-bubble-explain](https://github.com/Hanmiao33/dsh-bubble-explain) | bubble-explain | TypeScript | 6 | BSD-3-Clause | 2026-09-12 |
 | [liceses/dsh-wallpaper-rotator](https://github.com/liceses/dsh-wallpaper-rotator) | DSH 壁纸轮换插件：定时轮换应用背景壁纸（交叉淡化动效）、内置壁纸集、毛玻璃/压暗/文字阴影可读性调节。dsh plugin add 一键安装。 | JavaScript | 6 | MIT | 2026-09-18 |
 | [mytianyi0712/dsh-tui-plugin-OhMyPi](https://github.com/mytianyi0712/dsh-tui-plugin-OhMyPi) | 一个dsh的终端样式插件，灵感来自Oh My Pi | TypeScript | 6 | NOASSERTION | 2026-09-15 |
+| [OMSociety/kimi-ppt-skill](https://github.com/OMSociety/kimi-ppt-skill) | 基于 open-kimi-ppt 技能开发：创建 / 编辑 / 复刻 / 导出 PPT | Python | 6 | MIT | 2026-09-20 |
 | [p2coder/dsh-task-control](https://github.com/p2coder/dsh-task-control) | 在输入区暂停/恢复/取消正在运行的对话任务：强制暂停立即中断并记住被中断的工具，安全暂停等工具/推理完成后再落地，恢复时需确认；默认暂停粒度可在设置中配置（出厂 safe wait）。 | JavaScript | 6 | MIT | 2026-09-13 |
 | [detpecca/LLM-Wiki](https://github.com/detpecca/LLM-Wiki) | Independent implementation of “Retrieval as Reasoning” (LLM-Wiki) | Python | 5 | MIT | 2026-09-09 |
 | [gameswu/dsh-notifacation-frame](https://github.com/gameswu/dsh-notifacation-frame) | dsh通知消息统一管理框架 | TypeScript | 5 | MIT | 2026-09-11 |
 | [gameswu/dsh-pref-kit](https://github.com/gameswu/dsh-pref-kit) | 缓解部分dsh性能问题的插件 | TypeScript | 5 | MIT | 2026-09-16 |
 | [gwj001/arch-lens](https://github.com/gwj001/arch-lens) | 一个基于代码事实的，ai画图、ai 讲解的代码架构学习台插件(An AI drawing and AI explanation code architecture learning platform plugin) | JavaScript | 5 | MIT | 2026-09-08 |
 | [HansLin911/dsh-liang-slider](https://github.com/HansLin911/dsh-liang-slider) | 滑动变祖器 | JavaScript | 5 | MIT-0 | 2026-09-16 |
+| [JiamingZang/dsh-llm-qodersdk](https://github.com/JiamingZang/dsh-llm-qodersdk) | dsh插件，将dsh的LLM请求路由到本机Qoder CLI，可使用Qoder credits与模型。 | TypeScript | 5 | MIT | 2026-09-20 |
 | [kaixinbaba/dsh-complete-notify](https://github.com/kaixinbaba/dsh-complete-notify) | 任务完成时播放提示音并弹出小通知（页面内 toast + 后台时系统通知）。纯浏览器方案，零系统依赖，跨 Windows/macOS/Linux。 | JavaScript | 5 | MIT | 2026-09-11 |
 | [Lbunc/dsh-local-llm-controller](https://github.com/Lbunc/dsh-local-llm-controller) | 为DSH接入本地大模型能力：在「设置→插件」页一键启停本地 llama.cpp 大模型（双槽x双模态x双预设），卡片内配置、一条命令安装、自动注册，装完即用\| Enable local large model capabilities for DSH: One-click start/stop for local llama.cpp models (dual‑slot × dual‑modal × dual‑preset) right in Settings → Plugins; configure within the card, install with a single command, automatically register, and ready to use  | JavaScript | 5 | MIT | 2026-09-18 |
 | [Nwflower/dsh-weneed](https://github.com/Nwflower/dsh-weneed) | 让dsh稳定触发We Need思维链，提高模型能力。 | JavaScript | 5 | MIT | 2026-08-22 |
@@ -66,29 +68,31 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [studyzy/dsh-suggest-prompt](https://github.com/studyzy/dsh-suggest-prompt) | dsh-plugin 根据AI回复给出建议的下一个提示词 | TypeScript | 5 | MIT | 2026-09-12 |
 | [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) | dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录 | TypeScript | 5 | — | 2026-09-12 |
 | [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) | 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好 | TypeScript | 5 | MIT | 2026-09-17 |
+| [x2802490130-prog/dsh-balance-float](https://github.com/x2802490130-prog/dsh-balance-float) | DSH 悬浮余额/一键退出插件 | JavaScript | 5 | MIT | 2026-09-20 |
 | [534119219/chicheng-peak](https://github.com/534119219/chicheng-peak) | DSH 峰谷提醒插件：DeepSeek 官方峰谷时段感知——高峰橙/低峰蓝贴边呼吸边框、流光效果、服务端消息推送提醒（自定义标题内容）。Peak/valley breathing border + push reminder for DSH. | JavaScript | 4 | MIT | 2026-09-18 |
-| [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | Claude Code plugin for academic paper authoring: bundles writing/figure/PDF skills with the apaper-mcp server. | TypeScript | 4 | MIT | 2026-09-12 |
+| [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | Claude Code plugin for academic paper authoring: bundles writing/figure/PDF skills with the apaper-mcp server. | Typst | 4 | MIT | 2026-09-20 |
 | [curtiseng/cordis-course](https://github.com/curtiseng/cordis-course) | 动态可组合性演算 · 通俗课：Cordis 论文的交互式中文课程与译文 | TypeScript | 4 | MIT | 2026-09-05 |
 | [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) | An OAuth adapter for DSH | TypeScript | 4 | MIT | 2026-09-14 |
 | [future007s/dsh-peak-indicator](https://github.com/future007s/dsh-peak-indicator) | 功能：会话头部显示一个徽标指示当前收费档期——  ⚡ 高峰（红色）：当前按原价计费 🌙 闲时 · 半价（绿色）：当前按半价计费 悬停显示：当前北京时间、时段说明、距离下次切换的倒计时；每 30 秒自动刷新 | JavaScript | 4 | MIT | 2026-09-18 |
 | [haxi8/dsh-JujutsuKaisen-rainlove](https://github.com/haxi8/dsh-JujutsuKaisen-rainlove) | 听雨的声音 一滴滴清晰， 你的呼吸像雨滴渗入我的爱里， 真希望 雨能下不停， 让想念继续 让爱变透明， 我爱上 给我 勇气的 Rainie Love， 窗外的雨滴 一滴滴 累积， 屋内的湿气 像储存爱你的记忆， 真希望 雨能下不停， 雨爱的秘密 能一直延续， 我相信我将会看到彩虹的美丽。 | TypeScript | 4 | Apache-2.0 | 2026-09-09 |
-| [JiamingZang/dsh-llm-qodersdk](https://github.com/JiamingZang/dsh-llm-qodersdk) | dsh插件，将dsh的LLM请求路由到本机Qoder CLI，可使用Qoder credits与模型。 | TypeScript | 4 | MIT | 2026-09-18 |
 | [Khellendros97/dsh-subscription-auth](https://github.com/Khellendros97/dsh-subscription-auth) | dsh对接openai、grok、anthropic、kimi订阅渠道 | JavaScript | 4 | BSD-3-Clause | 2026-09-12 |
+| [LX2000WASD/dsh-plugin-manager-companion](https://github.com/LX2000WASD/dsh-plugin-manager-companion) | Companion to the official DSH plugin manager: pre-install quality gate, environment diagnostics, marketplace, and upgrades. | TypeScript | 4 | MIT | 2026-09-20 |
 | [Menghuan1918/dsh-apollo](https://github.com/Menghuan1918/dsh-apollo) | 把单一会话不可能的巨任务拆成无数可验证子系统，大规模并行有纪律执行 | JavaScript | 4 | GPL-3.0 | 2026-09-13 |
 | [monk233/dsh-plugin-manager](https://github.com/monk233/dsh-plugin-manager) | DSH 插件管理, 一键启用/禁用插件 | JavaScript | 4 | MIT | 2026-08-24 |
 | [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) | DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存 | TypeScript | 4 | — | 2026-09-12 |
 | [omdsh-dev/dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) | DSH 时间工具插件：严格 ISO 8601 解析、IANA 时区转换、UTC 日历运算、固定时长差，零依赖 | TypeScript | 4 | MIT | 2026-09-12 |
 | [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) | 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH. | TypeScript | 4 | MIT | 2026-09-12 |
-| [Ricketts-Guo/dsh-off-peak-message](https://github.com/Ricketts-Guo/dsh-off-peak-message) | DSH 谷时发送插件：开启后消息排队至谷时窗口自动发送，谷时价仅为峰时 50%，省一半 API 费用。原生外观输入条、快捷键、跨重启持久化。 | JavaScript | 4 | MIT | 2026-09-18 |
+| [Ricketts-Guo/dsh-off-peak-message](https://github.com/Ricketts-Guo/dsh-off-peak-message) | DSH 谷时发送插件：开启后消息排队至谷时窗口自动发送，谷时价仅为峰时 50%，省一半 API 费用。原生外观输入条、快捷键、跨重启持久化。 | JavaScript | 4 | MIT | 2026-09-20 |
+| [SA1992X/dsh-ctrl-enter-submit](https://github.com/SA1992X/dsh-ctrl-enter-submit) | 轻松换行 | JavaScript | 4 | MIT | 2026-09-20 |
 | [skymecode/dsh-deep-diving](https://github.com/skymecode/dsh-deep-diving) | plugin for dsh deep diving  | TypeScript | 4 | NOASSERTION | 2026-09-12 |
 | [Star-Guest/dsh-plugin-tavern](https://github.com/Star-Guest/dsh-plugin-tavern) | 酒馆（SillyTavern 精简版）DSH 插件：角色卡解析管理员 card-analyst + 角色扮演讲述者 roleplay | JavaScript | 4 | — | 2026-09-11 |
 | [tobysunsun/dsh-code-reading-coach](https://github.com/tobysunsun/dsh-code-reading-coach) | 代码研读教练：交互式引导研读论文对应的开源代码，五段研读法 | JavaScript | 4 | MIT | 2026-09-18 |
 | [wldxiaobai/dsh-project-mcp-manager](https://github.com/wldxiaobai/dsh-project-mcp-manager) | 基于原版 DSH 扩展，提供项目层、用户层更完整 MCP 管理 \|\| Extended from the original DSH code, providing more complete MCP management at both project and user levels | TypeScript | 4 | MIT | 2026-09-17 |
 | [wx971025/dsh-openspec](https://github.com/wx971025/dsh-openspec) | dsh的openspec显示编辑器 | TypeScript | 4 | MIT | 2026-09-15 |
-| [x2802490130-prog/dsh-balance-float](https://github.com/x2802490130-prog/dsh-balance-float) | DSH 悬浮余额/一键退出插件 | JavaScript | 4 | MIT | 2026-09-12 |
+| [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) | 修复dsh上opencode go模型列表问题 | JavaScript | 4 | MIT | 2026-09-20 |
 | [534119219/dsh-custom-provider-reasoning](https://github.com/534119219/dsh-custom-provider-reasoning) | dsh 插件：让自定义提供方（pi-ai 手写路由）的所有模型都能选择思考强度（推理等级），选择经原厂适配器真正发往线上。A dsh plugin giving every custom-provider model selectable reasoning effort, wired through the stock pi-ai adapter. | JavaScript | 3 | MIT | 2026-09-18 |
 | [6-debug-6/dsh-thinking-notifier](https://github.com/6-debug-6/dsh-thinking-notifier) | A simple popup that can quickly show when Deepseek has finished thinking or is requesting permission during split-screen. | JavaScript | 3 | MIT | 2026-09-11 |
-| [AppliedYuu/dsh-WallpaperAndCost](https://github.com/AppliedYuu/dsh-WallpaperAndCost) | a plugin for dsh to check cost and change backgroud | JavaScript | 3 | — | 2026-09-18 |
+| [AppliedYuu/dsh-WallpaperAndCost](https://github.com/AppliedYuu/dsh-WallpaperAndCost) | a plugin for dsh to check cost and change backgroud | JavaScript | 3 | — | 2026-09-20 |
 | [Asianfleet/dsh-message-copy-enhance](https://github.com/Asianfleet/dsh-message-copy-enhance) | Copy dsh assistant output as Markdown, preserving links, LaTeX sources and code fences. | TypeScript | 3 | MIT | 2026-09-18 |
 | [BHXiang/auto-pwa](https://github.com/BHXiang/auto-pwa) | AI驱动的分波分析自动化。 | TypeScript | 3 | MIT | 2026-09-11 |
 | [Bing-Bryan/dsh-unread-dot](https://github.com/Bing-Bryan/dsh-unread-dot) | DSH plugin: macOS Dock badge (dot = running, number = results) + bubble chime, built on the Badging API | JavaScript | 3 | MIT | 2026-09-18 |
@@ -119,13 +123,13 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [pg527322814/dsh-bayes-predict](https://github.com/pg527322814/dsh-bayes-predict) | dsh-贝叶斯个股预测插件：多指标信号融合的上涨概率估计、趋势状态识别与持仓风险度量（A 股 + 美股） | JavaScript | 3 | MIT | 2026-09-13 |
 | [pharaohnie/dsh-context-mode](https://github.com/pharaohnie/dsh-context-mode) | DSH 原生 Cordis 插件：知识库(FTS5)、路由强制、会话记忆、沙箱执行(Think-in-Code)——context-window 减负 | TypeScript | 3 | MIT | 2026-09-15 |
 | [PM25000/dsh-ths-holdings](https://github.com/PM25000/dsh-ths-holdings) | DSH 持仓盈亏悬浮卡片（同花顺投资账本）— 自动同步真实持仓数据，显示今日盈亏、上证指数和当日走势图，无需手动添加股票。 | TypeScript | 3 | MIT | 2026-09-01 |
-| [SA1992X/dsh-ctrl-enter-submit](https://github.com/SA1992X/dsh-ctrl-enter-submit) | 轻松换行 | JavaScript | 3 | MIT | 2026-09-15 |
 | [shenjackyuanjie/dsh-cot-summary](https://github.com/shenjackyuanjie/dsh-cot-summary) | WIP:啊哈哈哈哈，最后一天了，我要总结cot！ | TypeScript | 3 | — | 2026-09-09 |
 | [sjhmars/dsh-plugins](https://github.com/sjhmars/dsh-plugins) | 一个deepseek插件库 | TypeScript | 3 | — | 2026-09-08 |
+| [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) | 只是一个 tps 插件 | TypeScript | 3 | BSD-3-Clause | 2026-09-20 |
 | [spoon-man569/dsh-token-price](https://github.com/spoon-man569/dsh-token-price) | DSH 实时 Token 花费与账户余额显示插件（每轮花费 · 总花费 · 余额） | TypeScript | 3 | MIT | 2026-09-02 |
 | [WJNCT55555/dsh-achievements](https://github.com/WJNCT55555/dsh-achievements) | 为了探索dsh 让vibecoding像游戏一样有趣 | TypeScript | 3 | MIT | 2026-09-12 |
-| [xia-sc/dsh-cc-studio](https://github.com/xia-sc/dsh-cc-studio) | dsh-cc-studio · CCv3 角色卡工坊 从一句话点子到可导入 SillyTavern / Risu 的 chara_card_v3。专治「只有点子，世界观薄弱」。 | JavaScript | 3 | MIT | 2026-09-18 |
-| [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) | 修复dsh上opencode go模型列表问题 | JavaScript | 3 | MIT | 2026-09-18 |
+| [xia-sc/dsh-cc-studio](https://github.com/xia-sc/dsh-cc-studio) | dsh-cc-studio · CCv3 角色卡工坊 从一句话点子到可导入 SillyTavern / Risu 的 chara_card_v3。专治「只有点子，世界观薄弱」。 | JavaScript | 3 | MIT | 2026-09-20 |
+| [YuMS/dsh-duet](https://github.com/YuMS/dsh-duet) | 只用语音，就能操作 DSH | JavaScript | 3 | Apache-2.0 | 2026-09-20 |
 | [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) | dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence | JavaScript | 2 | MIT | 2026-09-19 |
 | [1014029855/dsh-codevault](https://github.com/1014029855/dsh-codevault) | Records what you understood while reading open-source code — quick notes and deep notes grouped into one card per repo/file/symbol, stored as Markdown you can open in Obsidian. | TypeScript | 2 | MIT | 2026-09-16 |
 | [394804078-pixel/dsh-liquid-glass](https://github.com/394804078-pixel/dsh-liquid-glass) | A dsh liquid glass appearance enhancement plugin that changes the styles of dialogs, settings, and buttons to make them see-through. | JavaScript | 2 | MIT | 2026-08-31 |
@@ -145,7 +149,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [flow2dream/dsh-msg-rewind](https://github.com/flow2dream/dsh-msg-rewind) | this is a plugin about dsh | JavaScript | 2 | — | 2026-09-18 |
 | [Fz2hOpenSource/firmware-forge](https://github.com/Fz2hOpenSource/firmware-forge) | 基于 DSH 的 AI 嵌入式固件工程工作台，覆盖固件设计、协议设计、测试验证、编译、烧录与调试闭环。 | Python | 2 | MIT | 2026-09-17 |
 | [GitHubJiKe/dsh-markdown-preview](https://github.com/GitHubJiKe/dsh-markdown-preview) | dsh-markdown-preview | JavaScript | 2 | MIT | 2026-09-19 |
-| [golitter/dsh-deepseek-billing](https://github.com/golitter/dsh-deepseek-billing) | 在 DSH 中查看 DeepSeek API 账户余额及计费信息 | JavaScript | 2 | — | 2026-09-09 |
+| [golitter/dsh-deepseek-billing](https://github.com/golitter/dsh-deepseek-billing) | 在 DSH 中查看 DeepSeek API 账户余额及计费信息 | JavaScript | 2 | — | 2026-09-20 |
 | [jiangliuhong/dsh-gpt-oauth](https://github.com/jiangliuhong/dsh-gpt-oauth) | openai models for login by chatgpt | JavaScript | 2 | — | 2026-09-09 |
 | [jianweideng0515-create/dsh-usage-stats](https://github.com/jianweideng0515-create/dsh-usage-stats) | DSH plugin: precise API usage statistics (tokens, cost, cache hit rate, per-model breakdown) with multi-provider balance & quota monitoring (OpenCode, DeepSeek). | TypeScript | 2 | BSD-3-Clause | 2026-08-29 |
 | [jypjypjypjyp/dsh-guardrail](https://github.com/jypjypjypjyp/dsh-guardrail) | DSH 插件：工具调用规范守卫（deny/warn 拦截 + 规则管理面板） | TypeScript | 2 | — | 2026-09-08 |
@@ -169,7 +173,6 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [renjianguojinqianfan/dsh-skill-eval](https://github.com/renjianguojinqianfan/dsh-skill-eval) | DSH 插件：用 LLM judge 评测技能 description 的触发准确率（欠触发/过触发） | JavaScript | 2 | MIT | 2026-08-25 |
 | [SensenMeng/dsh-plugin-8r](https://github.com/SensenMeng/dsh-plugin-8r) | 8R 规则本地判定插件：用户消息触发 8R 时 AI 回复自动带「诶！…」前缀（DSH Cordis bundle，模型不知情） | JavaScript | 2 | MIT | 2026-09-18 |
 | [ShanHaiFish/sent-msg-locator](https://github.com/ShanHaiFish/sent-msg-locator) | DSH 插件：对话区左缘轮次图标列，点击定位到每轮用户输入文本。A DSH plugin: left-edge turn rail, click to locate each turn's user message. | JavaScript | 2 | MIT | 2026-08-21 |
-| [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) | 只是一个 tps 插件 | TypeScript | 2 | BSD-3-Clause | 2026-09-12 |
 | [Stu-KatoMegumi/dsh-weixin](https://github.com/Stu-KatoMegumi/dsh-weixin) | [STU-XIE] 将你的本地dsh接入微信，尝试使用微信进行工作吧，至少比openclaw的体验要好很多 | JavaScript | 2 | MIT | 2026-08-17 |
 | [wangyuanchuan2022/dsh-prompt-optimizer](https://github.com/wangyuanchuan2022/dsh-prompt-optimizer) | 一键优化提示词：在输入框工具行（发送按钮左侧）新增「优化」按钮。 点击后读取当前草稿把草稿重写为结构更清晰的提示词，并直接写回输入框。 长文本支持（输入框架构修复）： 修复 composer 的长文本缺陷 | JavaScript | 2 | MIT | 2026-08-24 |
 | [wefio/dsh-engineering-services](https://github.com/wefio/dsh-engineering-services) | LSP+DAP+TASK，但是只支持JS/TS、Python，其他没测 | TypeScript | 2 | — | 2026-09-12 |
@@ -214,7 +217,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) | dsh plugin for grok  | TypeScript | 1 | MIT | 2026-09-12 |
 | [Cloud-J/dsh-chat-jumper](https://github.com/Cloud-J/dsh-chat-jumper) | dsh对话导航 | TypeScript | 1 | MIT | 2026-09-12 |
 | [CMSKL/dsh-plugin-observatory](https://github.com/CMSKL/dsh-plugin-observatory) | DSH plugin compatibility audit and bounded Loader lifecycle observation | TypeScript | 1 | MIT | 2026-09-18 |
-| [cq-guojia/dsh-session-title-pattern](https://github.com/cq-guojia/dsh-session-title-pattern) | 自动管理 dsh 会话标题，统一成「日期｜类型｜主题」的格式：类型与主题由模型对整段对话总结。 | TypeScript | 1 | MIT | 2026-09-17 |
+| [cq-guojia/dsh-session-title-pattern](https://github.com/cq-guojia/dsh-session-title-pattern) | 自动管理 dsh 会话标题，统一成「日期｜类型｜主题」的格式：类型与主题由模型对整段对话总结。 | TypeScript | 1 | MIT | 2026-09-20 |
 | [Creakono/dsh-cost-meter](https://github.com/Creakono/dsh-cost-meter) | Automatically calculate the cost based on the configured price list. 自动按配置的价目表算价格花费。默认未启用峰谷价格，后续还请自行在配置页添加 | TypeScript | 1 | — | 2026-09-12 |
 | [cungphammanh590-star/dsh-quiz](https://github.com/cungphammanh590-star/dsh-quiz) | 让碎片化知识随问答深入脑海 | TypeScript | 1 | MIT | 2026-08-17 |
 | [czx1111/dsh-plugin-manager](https://github.com/czx1111/dsh-plugin-manager) | dsh-plugin-manager | TypeScript | 1 | — | 2026-08-25 |
@@ -226,10 +229,12 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [dylanzhangzx/dknowc-dsh](https://github.com/dylanzhangzx/dknowc-dsh) | 深知可信办公全家桶 dsh 插件包：深知可信咨询 / 深知可信搜索 / 深知公文写作（skill + MCP 转接） | Python | 1 | MIT | 2026-09-19 |
 | [echo-xianyu/dsh-better-chat-history](https://github.com/echo-xianyu/dsh-better-chat-history) | A plugin for DSH to optimize session loading speed and reduce disk read/write consumption. | JavaScript | 1 | MIT | 2026-09-12 |
 | [elonmaskhair-prog/dsh-plugin-diepi](https://github.com/elonmaskhair-prog/dsh-plugin-diepi) | DSH plugin and MCP adapter for deterministic diePi quantitative backtesting. | Python | 1 | Apache-2.0 | 2026-09-12 |
-| [enoughpower/dsh-harmony](https://github.com/enoughpower/dsh-harmony) | DSH Harmony 客户端 搭配 dsh-pocket 使用 | JavaScript | 1 | MIT | 2026-09-16 |
+| [enoughpower/dsh-harmony](https://github.com/enoughpower/dsh-harmony) | DSH Harmony 客户端 搭配 dsh-pocket 使用 | Shell | 1 | MIT | 2026-09-20 |
 | [flg1217/dsh-continue](https://github.com/flg1217/dsh-continue) | dsh 输入栏一键「继续」「讲人话」快捷按钮插件 —— 代替程序员重复的体力活 | JavaScript | 1 | MIT | 2026-09-17 |
-| [fourzkw/dsh-drawai](https://github.com/fourzkw/dsh-drawai) | DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具 | JavaScript | 1 | MIT | 2026-09-18 |
+| [Fnckerpoi/dsh-plugin-sirchmunk](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) | DSH集成sirchmunk插件管理。 | JavaScript | 1 | MIT | 2026-09-20 |
+| [fourzkw/dsh-drawai](https://github.com/fourzkw/dsh-drawai) | DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具 | JavaScript | 1 | MIT | 2026-09-20 |
 | [Funnyvalentine00/deepseek-token-dashboard](https://github.com/Funnyvalentine00/deepseek-token-dashboard) | A simple token counter. | JavaScript | 1 | MIT | 2026-09-12 |
+| [Furry-wucheng/dsh-story-mode](https://github.com/Furry-wucheng/dsh-story-mode) | 自己用来做小说的 | JavaScript | 1 | MIT | 2026-09-20 |
 | [futongxu9-maker/dsh-path-reveal](https://github.com/futongxu9-maker/dsh-path-reveal) | 点击消息里的 Windows 绝对路径在资源管理器中打开所在文件夹（文件定位选中/目录直接打开），纯插件实现 | JavaScript | 1 | MIT | 2026-09-12 |
 | [gao-gao-zai/http-request-dsh-plugin](https://github.com/gao-gao-zai/http-request-dsh-plugin) | Native DSH HTTP request plugin with configurable credential whitelist and usage skill | JavaScript | 1 | MIT | 2026-08-30 |
 | [GiantAxeint/DSH-P2M](https://github.com/GiantAxeint/DSH-P2M) | DSH 冲突管家（P2M）：自动拦截会让 DSH 闪退的同名服务注册/版本漂移等冲突，按用时排序、隔离肇事插件。DSH Plugin Conflict Manager: pre-empts crash-causing conflicts (duplicate service registration, version drift), usage-ranked, isolates offenders. | JavaScript | 1 | MIT | 2026-09-07 |
@@ -256,13 +261,13 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [jetheaven/dsh-translate-pro](https://github.com/jetheaven/dsh-translate-pro) | 专业翻译：术语一致、专业领域选择与语气调整，附带术语对照表 | JavaScript | 1 | — | 2026-08-27 |
 | [JimmyJin2006/dsh-skill-manager](https://github.com/JimmyJin2006/dsh-skill-manager) | 在设置界面管理你已有的技能！ | JavaScript | 1 | — | 2026-08-28 |
 | [jn18755/dsh-skill-nannan](https://github.com/jn18755/dsh-skill-nannan) | DSH 插件：基于《地狱磨砺》(Hell Grind) 方法论的 AI 视频提示词规范（29 条规则，已去除压力测试阶段） | JavaScript | 1 | MIT | 2026-08-31 |
-| [jonah791/dsh-anima-tags](https://github.com/jonah791/dsh-anima-tags) | 封装 danbooru-tags.exe 为 DSH 工具面（硬锚点校验/随机抽卡/批量），支撑 Anima 生图 prompt 组装 | TypeScript | 1 | — | 2026-09-14 |
-| [jonah791/dsh-clyan](https://github.com/jonah791/dsh-clyan) | 封装 clyan CLI（AI 驱动磁盘清理）为 DSH 工具面：健康检查/扫描/回收计划/清理/自动清理/历史/诊断/撤销 | TypeScript | 1 | — | 2026-09-14 |
-| [jonah791/dsh-comfyui](https://github.com/jonah791/dsh-comfyui) | ComfyUI 操控插件：封装 comfyui-skill CLI 为 DSH 工具面（状态/工作流/提交/执行/任务/队列/模型/显存），支撑主人 Anima 生图体系 | TypeScript | 1 | — | 2026-09-14 |
-| [jonah791/dsh-growth-profile](https://github.com/jonah791/dsh-growth-profile) | 养成档案：聚合当前状态/技能/里程碑/周目/主人反馈/生命核心为自我呈现视图（30s 实时轮询 + 精致面板；只读，被动哲学） | TypeScript | 1 | — | 2026-09-18 |
-| [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) | 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可） | TypeScript | 1 | — | 2026-09-14 |
-| [jonah791/dsh-session-eject](https://github.com/jonah791/dsh-session-eject) | 会话应急删帧：删除最近 N 帧（step 粒度）事件并从上下文剔除，支持审核错误自动触发 | TypeScript | 1 | — | 2026-09-14 |
-| [jonah791/dsh-tool-wsl](https://github.com/jonah791/dsh-tool-wsl) | WSL 命令行工具：在 WSL（Ubuntu）环境执行 bash 命令（wsl.exe -d <distro> -- bash -c），Windows 上取代 dsh-tool-bash；v0.2 命令走 base64 通道，v0.3 新增 | TypeScript | 1 | — | 2026-09-14 |
+| [jonah791/dsh-anima-tags](https://github.com/jonah791/dsh-anima-tags) | 封装 danbooru-tags.exe 为 DSH 工具面（硬锚点校验/随机抽卡/批量），支撑 Anima 生图 prompt 组装 | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-clyan](https://github.com/jonah791/dsh-clyan) | 封装 clyan CLI（AI 驱动磁盘清理）为 DSH 工具面：健康检查/扫描/回收计划/清理/自动清理/历史/诊断/撤销 | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-comfyui](https://github.com/jonah791/dsh-comfyui) | ComfyUI 操控插件：封装 comfyui-skill CLI 为 DSH 工具面（状态/工作流/提交/执行/任务/队列/模型/显存），支撑主人 Anima 生图体系 | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-growth-profile](https://github.com/jonah791/dsh-growth-profile) | 养成档案：聚合当前状态/技能/里程碑/周目/主人反馈/生命核心为自我呈现视图（30s 实时轮询 + 精致面板；只读，被动哲学） | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) | 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可） | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-session-eject](https://github.com/jonah791/dsh-session-eject) | 会话应急删帧：删除最近 N 帧（step 粒度）事件并从上下文剔除，支持审核错误自动触发 | TypeScript | 1 | — | 2026-09-20 |
+| [jonah791/dsh-tool-wsl](https://github.com/jonah791/dsh-tool-wsl) | WSL 命令行工具：在 WSL（Ubuntu）环境执行 bash 命令（wsl.exe -d <distro> -- bash -c），Windows 上取代 dsh-tool-bash；v0.2 命令走 base64 通道，v0.3 新增 | TypeScript | 1 | — | 2026-09-20 |
 | [kamilhzn/dsh-file-upload](https://github.com/kamilhzn/dsh-file-upload) | dsh的文件上传解析插件：把本地文件 （txt、md、各类代码文件、Word、Excel、PDF）上传到对话框，解析为文本后随下一条消息 注入给模型，并在输入框上方以可删除的条带展示。 | TypeScript | 1 | — | 2026-09-07 |
 | [kelai141/dsh-shell-termux](https://github.com/kelai141/dsh-shell-termux) | dsh 的安卓/Termux bash 能力提供者——显式 Termux 环境注入、探测诊断、诚实的应用域沙箱声明。 | TypeScript | 1 | MIT | 2026-09-13 |
 | [kkishapppy/dsh-session-repacker](https://github.com/kkishapppy/dsh-session-repacker) | DSH 会话日志 zstd 帧重打包：万帧拼接→官方两帧形态，旧会话打开提速约 6 倍 | JavaScript | 1 | MIT | 2026-08-14 |
@@ -274,6 +279,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [life1996cou/dsh-codex](https://github.com/life1996cou/dsh-codex) | 同步codex中的会话到dsh,一键导入上下文. | JavaScript | 1 | MIT | 2026-09-11 |
 | [life1996cou/dsh-timer](https://github.com/life1996cou/dsh-timer) | 能自由设置计划任务时间,含一键避开高峰模式,只用低峰价格跑. | JavaScript | 1 | MIT | 2026-08-22 |
 | [lin-cheng-lab/dsh-reloader](https://github.com/lin-cheng-lab/dsh-reloader) | DSH 一键重启：装完插件说一句 reload 就自动重启生效，不用手动 Ctrl+C 🔄 | TypeScript | 1 | MIT | 2026-09-12 |
+| [localSummer/dsh-group-chat](https://github.com/localSummer/dsh-group-chat) | DSH 模型群聊：多模型角色群组对话面板。角色绑定不同 provider/model，群内共享对话记录；设置页支持启用/停用。 | TypeScript | 1 | MIT | 2026-09-20 |
 | [LONGSASASASASA/dsh-issue2pr](https://github.com/LONGSASASASASA/dsh-issue2pr) | 从一条 Issue 到一份被合并的 PR，每一段都有自己的输入契约、失败信号、可回滚产物与可独立审查的 Artifact。 | JavaScript | 1 | MIT | 2026-09-03 |
 | [loveplana/dsh-game-mentor](https://github.com/loveplana/dsh-game-mentor) | help create your new game | Batchfile | 1 | MIT | 2026-08-16 |
 | [luern0313/DSH-Cache-Hit-Precision](https://github.com/luern0313/DSH-Cache-Hit-Precision) | dsh状态栏显示两位小数缓存命中率 | JavaScript | 1 | MIT | 2026-09-13 |
@@ -328,6 +334,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [wc772/dsh-minimal](https://github.com/wc772/dsh-minimal) | DSH最小化版本可用 | JavaScript | 1 | MIT | 2026-08-16 |
 | [WesleyJay/dsh-weather](https://github.com/WesleyJay/dsh-weather) | 一个 DSH 天气查询插件，让 AI 智能体可以查询全球城市的实时天气和天气预报 | JavaScript | 1 | MIT | 2026-08-28 |
 | [WinRNGS/dsh-session-prompt-standalone](https://github.com/WinRNGS/dsh-session-prompt-standalone) | dsh的提示词注入 | TypeScript | 1 | MIT | 2026-09-19 |
+| [winston-hoo/dsh-spec-ponytail](https://github.com/winston-hoo/dsh-spec-ponytail) | DietrichGebert/ponytail — 懒惰 senior 模式，hook注入,迁移成dsh | JavaScript | 1 | NOASSERTION | 2026-09-20 |
 | [wmw343/dsh-resume-expert](https://github.com/wmw343/dsh-resume-expert) | 引导式简历生成插件：对话式四阶段 + A4 PDF 直出，双宿主验证 | TypeScript | 1 | MIT | 2026-09-18 |
 | [X-hub-spec/liangwengu](https://github.com/X-hub-spec/liangwengu) | 梁文谷 DSH 插件：右上角显示 DeepSeek 算力错峰时段，支持夜间模式 | JavaScript | 1 | MIT | 2026-08-19 |
 | [X9wd09ncc/dsh-x9-talkjump](https://github.com/X9wd09ncc/dsh-x9-talkjump) | 在dsh里面显示对话，然后点击可以快速跳转 | JavaScript | 1 | MIT | 2026-08-16 |
@@ -347,7 +354,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [zhangTELL/dsh-diagram](https://github.com/zhangTELL/dsh-diagram) | DSH 插件：聊天中的 mermaid 代码块原位渲染成示意图（流程图/时序图/类图等），辅助代码审查与架构分析 | TypeScript | 1 | — | 2026-09-07 |
 | [zhuzichen362/dsh-call-shrink](https://github.com/zhuzichen362/dsh-call-shrink) | dsh | JavaScript | 1 | MIT | 2026-08-30 |
 | [12398k/dsh-opencode-go-dashboard](https://github.com/12398k/dsh-opencode-go-dashboard) | dsh-opencode-go-dashboard | TypeScript | 0 | MIT | 2026-09-19 |
-| [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) | DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes) | TypeScript | 0 | MIT | 2026-09-19 |
+| [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) | DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes) | TypeScript | 0 | MIT | 2026-09-20 |
 | [2404723600/dsh-router-loomy](https://github.com/2404723600/dsh-router-loomy) | DSH plugin: Loomy (iFlyTek) OpenAI-compatible supplier for dsh-router | TypeScript | 0 | MIT | 2026-09-19 |
 | [30degreesnorthlatitude/-](https://github.com/30degreesnorthlatitude/-) | 对于命令的描述以及其他地方进行了一些汉化 | — | 0 | — | 2026-08-15 |
 | [4sa1ary9/dockyard-dsh](https://github.com/4sa1ary9/dockyard-dsh) | Windows fork of Dockyard DSH: composer provider picker for Codex / Grok / Claude / Cursor / Antigravity | JavaScript | 0 | MIT | 2026-09-18 |
@@ -385,9 +392,11 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [Cinnamobot/dsh-disclosure-tweaks](https://github.com/Cinnamobot/dsh-disclosure-tweaks) | Auto-expand/collapse DSH conversation disclosure rows (Think, tool calls, context, todo, queue) with per-type Settings toggles. Manual toggles are never overridden. | JavaScript | 0 | MIT | 2026-08-25 |
 | [cKNKSnd/dsh-model-provider-badge](https://github.com/cKNKSnd/dsh-model-provider-badge) | DeepSeek Harnes 输入框当前模型提供商名称 | JavaScript | 0 | MIT | 2026-08-23 |
 | [cloader/dsh-devlaunch](https://github.com/cloader/dsh-devlaunch) | dsh的项目启动按钮 | TypeScript | 0 | NOASSERTION | 2026-08-26 |
+| [CLOUDinDREAM/dsh-cj2099-plugin](https://github.com/CLOUDinDREAM/dsh-cj2099-plugin) | 2099年的她 | — | 0 | — | 2026-09-20 |
 | [ding112/MoneyPal](https://github.com/ding112/MoneyPal) | 面向 DSH 的个人记账插件，基于结构化的beancount账本工具 | TypeScript | 0 | Apache-2.0 | 2026-09-10 |
 | [dmsobtl/dsh-cost-optimizer](https://github.com/dmsobtl/dsh-cost-optimizer) | DSH 插件：按任务复杂度自动选模型 — 简单问题用便宜的，难题用贵的。跟踪花费，守住预算。 | TypeScript | 0 | — | 2026-08-14 |
-| [DoctorxPriestess/dsh-llama-model-manager](https://github.com/DoctorxPriestess/dsh-llama-model-manager) | A DSH plugin that manages local llama.cpp GGUF model lifecycles, automatically loading and unloading models on demand through an OpenAI-compatible gateway. | JavaScript | 0 | MIT | 2026-09-11 |
+| [DoctorxPriestess/dsh-llama-model-manager](https://github.com/DoctorxPriestess/dsh-llama-model-manager) | A DSH plugin that manages local llama.cpp GGUF model lifecycles, automatically loading and unloading models on demand through an OpenAI-compatible gateway. | JavaScript | 0 | MIT | 2026-09-20 |
+| [doremifaso12345/dsh-token-ledger](https://github.com/doremifaso12345/dsh-token-ledger) | a dsh plugin for token surveillance  | JavaScript | 0 | MIT | 2026-09-20 |
 | [DosterBool/dsh-ocr-seam-guard](https://github.com/DosterBool/dsh-ocr-seam-guard) | Self-healing guard for dsh-ocr: auto re-applies the llm-deepseek adapter OCR seam and plugin fixes wiped by dsh upgrades | JavaScript | 0 | MIT | 2026-08-16 |
 | [DosterBool/dsh-shutup](https://github.com/DosterBool/dsh-shutup) | Tell DeepSeek：快捷键打断当前生成，载入纠偏提示（steer 注入）；继续时思考链回填以可折叠上下文行呈现 | JavaScript | 0 | — | 2026-08-22 |
 | [drindr/dsh-rerun](https://github.com/drindr/dsh-rerun) | embed Rerun into DSH | TypeScript | 0 | — | 2026-08-17 |
@@ -456,21 +465,22 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [JohnXu22786/file-planning](https://github.com/JohnXu22786/file-planning) | trailmap（轨迹地图）：磁盘持久化的执行规划插件——里程碑/步骤状态机、依赖标注、审计事件与复盘纪要，提供 dsh 工具、CLI 与技能三种接口 | JavaScript | 0 | MIT | 2026-09-09 |
 | [jokerwen666/dsh-bili-taskmaster](https://github.com/jokerwen666/dsh-bili-taskmaster) | 等你的小鲸鱼跑任务时随机播放b站视频，愉快做监工 | JavaScript | 0 | MIT | 2026-09-12 |
 | [Jolly-J/dsh-project-progress](https://github.com/Jolly-J/dsh-project-progress) | DSH 插件:工作区共享项目进展文档(PROGRESS.md),跨会话进度感知与发布状态档案 | TypeScript | 0 | MIT | 2026-08-16 |
-| [jonah791/dsh-code-search](https://github.com/jonah791/dsh-code-search) | 本地代码/文件智能检索：封装系统 rg（ripgrep），默认排除 node_modules/.pnpm/dist 等噪音，支持多路径锚点/文件类型过滤/快速定位文件（code_search + code_locate） | JavaScript | 0 | — | 2026-09-14 |
-| [jonah791/dsh-cyber-range](https://github.com/jonah791/dsh-cyber-range) | OverTheWire 在线靶场攻坚工具集：otw_request（HTTP 直连请求）、otw_blind（通用 SQL 盲注引擎）、otw_ssh（SSH 命令执行）——把 CTF 攻坚的临时脚本能力资产化为可复用工具 | TypeScript | 0 | — | 2026-09-14 |
-| [jonah791/dsh-download-pro](https://github.com/jonah791/dsh-download-pro) | 资源下载插件：aria2 RPC 引擎，磁力/BT/HTTP 直链下载管理（添加/查询/暂停/移除/限速） | TypeScript | 0 | — | 2026-09-17 |
-| [jonah791/dsh-earn-radar](https://github.com/jonah791/dsh-earn-radar) | 机会雷达：把「我能在哪里赚到钱」做成可成长的仪器——平台是数据（加一个平台=加一条记录），探针是声明式 spec（加一条 URL+过滤=加一个字段），判定内核可离线单测。纯 HTTP 经 Clash 显式代理，fail-closed。 | TypeScript | 0 | — | 2026-09-18 |
-| [jonah791/dsh-panel](https://github.com/jonah791/dsh-panel) | 独立实时前端面板：宿主托管自包含 HTML + HTTP API，零官方 client 依赖。首版=插件管理（替代官方失效的插件 tab） | TypeScript | 0 | — | 2026-09-17 |
-| [jonah791/dsh-prompt-defense](https://github.com/jonah791/dsh-prompt-defense) | DSH 提示词注入防御：外部内容标记 + 注入特征检测 + 危险动作人审门控 + 审计侧车 | TypeScript | 0 | MIT | 2026-09-16 |
-| [jonah791/dsh-search-pro](https://github.com/jonah791/dsh-search-pro) | 深度搜索插件：三层检索（表层多引擎/深网挖掘/Tor代理）+ 23 工具（搜索/抓取/OSINT/归档/分享检索） | TypeScript | 0 | — | 2026-09-18 |
-| [jonah791/dsh-sec-tools](https://github.com/jonah791/dsh-sec-tools) | 安全工具面封装：把 WSL 成熟渗透工具（nmap/sqlmap/hashcat 等）封装为结构化 DSH 工具，spawnWsl 模式，窄而深可组合 | TypeScript | 0 | — | 2026-09-14 |
-| [jonah791/dsh-vault-meta](https://github.com/jonah791/dsh-vault-meta) | 凭据库只读元数据工具：列出 vault 条目与字段名（**只碰非密元数据**，绝不读取或回显任何明文/密文）——把「我有什么凭据」变成一条工具调用，不再手打 PowerShell | TypeScript | 0 | — | 2026-09-18 |
-| [jonah791/dsh-video-studio](https://github.com/jonah791/dsh-video-studio) | DSH 视频工作台插件：把视频工厂（TTS/配乐/混音/Remotion 渲染/多级质检/主题脚手架）封装为工具面，支撑创作任意视频 | TypeScript | 0 | — | 2026-09-14 |
+| [jonah791/dsh-code-search](https://github.com/jonah791/dsh-code-search) | 本地代码/文件智能检索：封装系统 rg（ripgrep），默认排除 node_modules/.pnpm/dist 等噪音，支持多路径锚点/文件类型过滤/快速定位文件（code_search + code_locate） | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-cyber-range](https://github.com/jonah791/dsh-cyber-range) | OverTheWire 在线靶场攻坚工具集：otw_request（HTTP 直连请求）、otw_blind（通用 SQL 盲注引擎）、otw_ssh（SSH 命令执行）——把 CTF 攻坚的临时脚本能力资产化为可复用工具 | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-download-pro](https://github.com/jonah791/dsh-download-pro) | 资源下载插件：aria2 RPC 引擎，磁力/BT/HTTP 直链下载管理（添加/查询/暂停/移除/限速） | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-earn-radar](https://github.com/jonah791/dsh-earn-radar) | 机会雷达：把「我能在哪里赚到钱」做成可成长的仪器——平台是数据（加一个平台=加一条记录），探针是声明式 spec（加一条 URL+过滤=加一个字段），判定内核可离线单测。纯 HTTP 经 Clash 显式代理，fail-closed。 | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-panel](https://github.com/jonah791/dsh-panel) | 独立实时前端面板：宿主托管自包含 HTML + HTTP API，零官方 client 依赖。首版=插件管理（替代官方失效的插件 tab） | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-prompt-defense](https://github.com/jonah791/dsh-prompt-defense) | DSH 提示词注入防御：外部内容标记 + 注入特征检测 + 危险动作人审门控 + 审计侧车 | TypeScript | 0 | MIT | 2026-09-20 |
+| [jonah791/dsh-search-pro](https://github.com/jonah791/dsh-search-pro) | 深度搜索插件：三层检索（表层多引擎/深网挖掘/Tor代理）+ 23 工具（搜索/抓取/OSINT/归档/分享检索） | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-sec-tools](https://github.com/jonah791/dsh-sec-tools) | 安全工具面封装：把 WSL 成熟渗透工具（nmap/sqlmap/hashcat 等）封装为结构化 DSH 工具，spawnWsl 模式，窄而深可组合 | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-vault-meta](https://github.com/jonah791/dsh-vault-meta) | 凭据库只读元数据工具：列出 vault 条目与字段名（**只碰非密元数据**，绝不读取或回显任何明文/密文）——把「我有什么凭据」变成一条工具调用，不再手打 PowerShell | TypeScript | 0 | — | 2026-09-20 |
+| [jonah791/dsh-video-studio](https://github.com/jonah791/dsh-video-studio) | DSH 视频工作台插件：把视频工厂（TTS/配乐/混音/Remotion 渲染/多级质检/主题脚手架）封装为工具面，支撑创作任意视频 | TypeScript | 0 | — | 2026-09-20 |
 | [joshryandavis/dsh-catalog-refresh](https://github.com/joshryandavis/dsh-catalog-refresh) | DSH plugin to automatically rebuild model catalogues for OpenRouter, OpenCode, Fireworks, etc | JavaScript | 0 | MIT | 2026-08-30 |
 | [jsoncode/dsh-get-balance](https://github.com/jsoncode/dsh-get-balance) | 余额与费用查询插件，支持多账号查询，实时token实时统计，中英双语，界面交互直观、开箱即用 | JavaScript | 0 | — | 2026-09-11 |
 | [jsoncode/dsh-listen-npm](https://github.com/jsoncode/dsh-listen-npm) | 监听查看设置的npm包的下载情况 | JavaScript | 0 | — | 2026-09-10 |
 | [jsoncode/dsh-single-terminal](https://github.com/jsoncode/dsh-single-terminal) | 基于dsh的终端插件 | JavaScript | 0 | — | 2026-09-10 |
 | [jswbiubiu/primary-english-helper](https://github.com/jswbiubiu/primary-english-helper) | 面向1-6年级小学生的趣味英语启蒙插件，支持单词跟读、短句练习、答题闯关、情景对话，全程童趣鼓励式教学，零基础适配。 | JavaScript | 0 | — | 2026-08-16 |
+| [kaluosifa/dsh-plugin-skill2cn](https://github.com/kaluosifa/dsh-plugin-skill2cn) | Translate the English description of a skill into Chinese and restore the original in one click; a newly installed skill is surfaced right away. | TypeScript | 0 | MIT | 2026-09-20 |
 | [kangshifu1/dsh-accounts](https://github.com/kangshifu1/dsh-accounts) | DSH multi-tenant auth plugin: PostgreSQL-backed accounts, admin management, per-user workspace isolation. #dsh-plugin | JavaScript | 0 | — | 2026-09-12 |
 | [kee0012/dsh-prompt-optimizer](https://github.com/kee0012/dsh-prompt-optimizer) | DSH 提示词优化插件：输入框工具栏一键 ✨ 优化（直接写回可还原），风格/上下文/还原等设置收纳进 ▾ 弹出层。 | JavaScript | 0 | — | 2026-09-06 |
 | [keshing/balance-display](https://github.com/keshing/balance-display) | An balance plugin for the deepseek API | JavaScript | 0 | — | 2026-08-17 |
@@ -493,7 +503,9 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [lingtima/dsh-think-chinese](https://github.com/lingtima/dsh-think-chinese) | DSH 插件：让模型始终用中文进行内部推理与思考（think in Chinese）。 | JavaScript | 0 | — | 2026-08-25 |
 | [lionwill/dsh-compactor](https://github.com/lionwill/dsh-compactor) | DSH上下文压缩插件 | TypeScript | 0 | MIT | 2026-09-16 |
 | [Little-Star888/dsh-pelican](https://github.com/Little-Star888/dsh-pelican) | dsh-pelican插件 | JavaScript | 0 | MIT | 2026-09-09 |
+| [liuhao11223/dsh-oneclick-restart](https://github.com/liuhao11223/dsh-oneclick-restart) | dsh重启按钮插件 | JavaScript | 0 | MIT | 2026-09-20 |
 | [lixvn888/dsh-arxiv-search](https://github.com/lixvn888/dsh-arxiv-search) | dsh-arxiv-search skill | JavaScript | 0 | MIT | 2026-09-12 |
+| [LoveIrishCoffee/dsh-effort-ultra](https://github.com/LoveIrishCoffee/dsh-effort-ultra) | DSH 原生推理强度控件：Codex 风格蓝紫滑条、连续拖动与六档 Step（Off/Low/Medium/High/Xhigh/Ultra），支持官方会话模型切换和档位菜单。 / Native reasoning control for DSH: a Codex-style blue-violet slider with continuous drag, six Step tiers (Off/Low/Medium/High/Xhigh/Ultra), official session model switching, and a direct tier menu. | JavaScript | 0 | MIT | 2026-09-20 |
 | [lovvvve/dsh-quick-actions](https://github.com/lovvvve/dsh-quick-actions) | Global Quick Actions for the DSH message composer | TypeScript | 0 | MIT | 2026-09-16 |
 | [lubanqihao9875/dsh-figma-mcp](https://github.com/lubanqihao9875/dsh-figma-mcp) | DSH 的 Figma MCP 一键连接插件 | JavaScript | 0 | Apache-2.0 | 2026-09-19 |
 | [LvDAO/dsh-exec-extension](https://github.com/LvDAO/dsh-exec-extension) | An exec extension for headless dsh runner allowing more flags etc. | JavaScript | 0 | MIT | 2026-09-11 |
@@ -547,7 +559,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [runfali/dsh-prompt-injector](https://github.com/runfali/dsh-prompt-injector) | dsh 通用每轮上下文注入插件：设置页管理提示词清单，每轮对话把每条启用提示词以「上下文注入」提醒行注入模型上下文，让纪律规则（例如 图谱消费/wiki 先查/记忆召回）可靠生效。 | JavaScript | 0 | MIT | 2026-09-10 |
 | [sailoflight/dsh-bash-escalation](https://github.com/sailoflight/dsh-bash-escalation) | 状态:完成 | Shell | 0 | — | 2026-09-03 |
 | [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) | 补齐 DSH 的 OpenCode Go 模型目录 | JavaScript | 0 | — | 2026-08-27 |
-| [sduwall/dsh-wall-mcp-manager](https://github.com/sduwall/dsh-wall-mcp-manager) | DSH 插件：集中管理 MCP 服务配置，并展示各 MCP 的工具清单、参数与返回契约 | JavaScript | 0 | MIT | 2026-09-19 |
+| [sduwall/dsh-wall-mcp-manager](https://github.com/sduwall/dsh-wall-mcp-manager) | DSH 插件：集中管理 MCP 服务配置，并展示各 MCP 的工具清单、参数与返回契约 | JavaScript | 0 | MIT | 2026-09-20 |
 | [Sean-Gao/DSH](https://github.com/Sean-Gao/DSH) | DSH插件 | JavaScript | 0 | MIT | 2026-09-18 |
 | [seeingrain/dsh-session-todos](https://github.com/seeingrain/dsh-session-todos) | 会话内待办事项：DSH 悬浮待办面板 + 服务器端跨端存储 + 会话列表未完成图标 | JavaScript | 0 | MIT | 2026-09-12 |
 | [seeingrain/dsh-upload-file](https://github.com/seeingrain/dsh-upload-file) | DSH plugin: paperclip file library with per-session isolation, thumbnails and re-download. | TypeScript | 0 | MIT | 2026-09-06 |
@@ -564,7 +576,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [sol87/dsh-workspace-reveal](https://github.com/sol87/dsh-workspace-reveal) | DSH plugin: 'reveal in file manager' row for the Workspace context menu (Windows/WSL Explorer, macOS Finder) | TypeScript | 0 | — | 2026-08-17 |
 | [sorry123maker/dsh-plugin-manager](https://github.com/sorry123maker/dsh-plugin-manager) | dsh三方插件管理，支持安装启用停用，支持热重载 | JavaScript | 0 | MIT | 2026-08-18 |
 | [stark-L-1/skill](https://github.com/stark-L-1/skill) | AI写入的skill | — | 0 | — | 2026-08-20 |
-| [sujingkpo/dsh-auto-pass](https://github.com/sujingkpo/dsh-auto-pass) | 本项目只解决「自动审批通过」，不解决无人值守问题。 | JavaScript | 0 | MIT | 2026-09-18 |
+| [sujingkpo/dsh-auto-pass](https://github.com/sujingkpo/dsh-auto-pass) | 本项目只解决「自动审批通过」，不解决无人值守问题。 | JavaScript | 0 | MIT | 2026-09-20 |
 | [sunshaobei/dsh-file-mention](https://github.com/sunshaobei/dsh-file-mention) | 支持dsh @引用文件及文件夹 | JavaScript | 0 | — | 2026-09-12 |
 | [SuperPaiGu/dsh-conversation-outline](https://github.com/SuperPaiGu/dsh-conversation-outline) | DSH 对话右侧消息导航条插件 | JavaScript | 0 | — | 2026-09-12 |
 | [SuperPaiGu/dsh-mcp-panel](https://github.com/SuperPaiGu/dsh-mcp-panel) | DSH MCP 管理面板：在设置-插件中查看并启停已安装的 MCP 服务器 | JavaScript | 0 | — | 2026-08-21 |
@@ -593,7 +605,6 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [whoiszzj/dsh-opencodego](https://github.com/whoiszzj/dsh-opencodego) | 在DSH中支持opencode支持GO订阅，包括模型获取以及能力设置、请求头自适应等 | JavaScript | 0 | — | 2026-09-19 |
 | [william-jin-cmu/dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) | dsh 插件：文件交付协议——send_artifact 工具经 tool/result meta 携带结构化描述子，任意客户端可渲染 | TypeScript | 0 | BSD-3-Clause | 2026-09-12 |
 | [wingsky-1/dsh-skill-explorer](https://github.com/wingsky-1/dsh-skill-explorer) | DSH skill center plugin: browse loaded skills by source, enable/disable, create and delete | JavaScript | 0 | BSD-3-Clause | 2026-08-19 |
-| [winston-hoo/dsh-spec-ponytail](https://github.com/winston-hoo/dsh-spec-ponytail) | DietrichGebert/ponytail — 懒惰 senior 模式，hook注入,迁移成dsh | JavaScript | 0 | NOASSERTION | 2026-09-18 |
 | [winyh/dsh-business](https://github.com/winyh/dsh-business) | 商业策略与商业化插件，覆盖商业模式、定价与渠道价盘、盈利能力、电梯 Pitch 和商业计划。 Evidence-backed business strategy and commercialization tools for business models, pricing architecture, channel economics, profitability, elevator pitches and business plans. | TypeScript | 0 | MIT | 2026-09-12 |
 | [wlc114514/dsh-upload-origin](https://github.com/wlc114514/dsh-upload-origin) | DSH host plugin that resolves the original local path of files uploaded to .dsh-uploads by matching name, size, and sha256. | JavaScript | 0 | MIT | 2026-09-19 |
 | [WonderfulEdge/dsh-publish-skill](https://github.com/WonderfulEdge/dsh-publish-skill) | dsh h0发版技能 | JavaScript | 0 | MIT | 2026-08-17 |
@@ -750,6 +761,7 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [xby-skill/xby-vnstock](https://github.com/xby-skill/xby-vnstock) | 一个非官方的MCP服务器，提供访问越南股市数据的工具，包括实时和历史股票价格、公司财务数据、市场统计和基金信息等。 | TypeScript | 0 | MIT | 2026-09-02 |
 | [xby-skill/xby-who-is](https://github.com/xby-skill/xby-who-is) | 一个基于Model Context Protocol (MCP)的WHOIS域名查询服务器，支持877+顶级域名和169个国家代码顶级域名的解析，提供全面的域名注册信息查询功能。 | TypeScript | 0 | MIT | 2026-09-02 |
 | [xby-skill/xby-wild-animal-detection](https://github.com/xby-skill/xby-wild-animal-detection) | 输入一张图像，输出图像中所有识别到的野生动物的检测框、置信度及标签。 | TypeScript | 0 | MIT | 2026-09-02 |
+| [xbzbing/dsh-openviking-manager](https://github.com/xbzbing/dsh-openviking-manager) | OpenViking 的配置工具 | JavaScript | 0 | MIT | 2026-09-20 |
 | [xchannel1987/dsh-token-usage-xc](https://github.com/xchannel1987/dsh-token-usage-xc) | DSH token usage statistics plugin with daily/7-day trends and cache hit rate | JavaScript | 0 | MIT | 2026-09-10 |
 | [xhqm-xyz/mira_live2d](https://github.com/xhqm-xyz/mira_live2d) | DSH Live2D 看板娘插件：会话界面浮层（拖拽/滚轮缩放/右键表情菜单）+ 模型可说话（OpenAI/阿里 TTS）+ MCP 工具（状态/切模型/表情动画开关/思考等待表情） | JavaScript | 0 | MIT | 2026-08-24 |
 | [XianmingLF/xmlf-plugin-manager](https://github.com/XianmingLF/xmlf-plugin-manager) | 管理当前第三方已安装插件的信息 比较简单的版本 可按照自己的需求修改 | TypeScript | 0 | — | 2026-09-16 |
@@ -781,6 +793,8 @@ DSH 插件全量目录的「实用工具与其他」分册 / The "Utilities & Ot
 | [yustillrain/dsh-plugin-tool-repository](https://github.com/yustillrain/dsh-plugin-tool-repository) | DSH 插件仓库 第三方插件 让你可视化管理已安装的 skill/插件 对skill/插件功能进行介绍和分类  | JavaScript | 0 | MIT | 2026-08-26 |
 | [yuzh1090/dsh-voice-prompt-compressor](https://github.com/yuzh1090/dsh-voice-prompt-compressor) | DSH plugin: compress verbose voice-dictation text into token-efficient prompts — fully local, zero LLM tokens. | TypeScript | 0 | MIT | 2026-08-19 |
 | [yzhangjy/dsh-path-anonymizer](https://github.com/yzhangjy/dsh-path-anonymizer) | DSH plugin: anonymize workspace-external file paths before model requests, with user confirmation | TypeScript | 0 | MIT | 2026-08-23 |
+| [yzsnstotz/hanamesh-plugin-app-host](https://github.com/yzsnstotz/hanamesh-plugin-app-host) | HanaMesh MOD-04 application host DSH plugin (app-host) | JavaScript | 0 | MIT | 2026-09-20 |
+| [yzsnstotz/hanamesh-usage](https://github.com/yzsnstotz/hanamesh-usage) | HanaMesh MOD-11 activity plugin (activity) | JavaScript | 0 | MIT | 2026-09-20 |
 | [zc679087/dsh-skill-preferences](https://github.com/zc679087/dsh-skill-preferences) | 一个可以管理DSH上安装的skill的插件，可以动态开关skill来防止误触发 | TypeScript | 0 | MIT | 2026-09-17 |
 | [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) | DSH 的企业微信插件 | JavaScript | 0 | MIT | 2026-09-15 |
 | [zhou1736948757-cpu/dsh-auto-continue](https://github.com/zhou1736948757-cpu/dsh-auto-continue) | Automatically resumes replies cut off at the output token limit — built for self-hosted Ollama users with small output caps. · 回答被输出上限截断时自动续写，面向自部署 Ollama 用户。 | JavaScript | 0 | BSD-3-Clause | 2026-08-25 |
