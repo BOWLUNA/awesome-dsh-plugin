@@ -245,7 +245,7 @@
     "Ultmebius/universal-plugin-hub": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
     "UnknowCao/dsh-dock": "Kept out of the star board: a desktop launcher (single exe + sidebar menu), not an installable DSH plugin. Stays in the catalog.",
     "V-dev-388/DSH-plugin-market": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
-    "VDERR/echocat-skill-panel-3.0": "Kept out of the star board: a skill panel with one-click skill-install flows (a market — the market cannot include another market); its +101★/day burst landed on a repo created the same day with throwaway-fork engagement. Stays in the catalog.",
+    "VDERR/echocat-skill-panel": "Kept out of the star board: a skill panel with one-click skill-install flows (a market — the market cannot include another market); its +101★/day burst landed on a repo created the same day with throwaway-fork engagement. Stays in the catalog.",
     "Viveksssss/DeepSeek-harness-marketplace": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
     "Void0312Aurora/dsh-desktop-electron": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
     "WEP-56/DSH-Launcher": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
@@ -254,7 +254,6 @@
     "WhaleHarness/WhaleHarness": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
     "Wine-Cupable/dsh-plugin-marketplace": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
     "XSakura666/dsh-plugin-ChronoAgent": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
-    "XXLxhPLMM/dsh-start": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
     "YELEBAI/dsh-plugin-marketplace": "Kept out of the star board: a plugin market / store / directory — the market cannot include another market. Stays in the catalog.",
     "YgtqRun/Harnex": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
     "Yuel25/dsh-desktop": "Kept out of the star board: a desktop shell/launcher/client, not an installable DSH plugin. Stays in the catalog.",
@@ -1696,7 +1695,6 @@
     "WhaleHarness/WhaleHarness": "A DSH plugin market / directory / store — the market cannot include another market; stays in the catalog and leaderboard, excluded from the downstream market.",
     "Wine-Cupable/dsh-plugin-marketplace": "A DSH plugin market / directory / store — the market cannot include another market; stays in the catalog and leaderboard, excluded from the downstream market.",
     "XSakura666/dsh-plugin-ChronoAgent": "Not an installable DSH plugin — a desktop app; stays in the catalog and leaderboard, excluded from the downstream market.",
-    "XXLxhPLMM/dsh-start": "Not an installable DSH plugin — a desktop shell/launcher; stays in the catalog and leaderboard, excluded from the downstream market.",
     "YELEBAI/dsh-plugin-marketplace": "A DSH plugin market / directory / store — the market cannot include another market; stays in the catalog and leaderboard, excluded from the downstream market.",
     "YUXI-Dev/dsh-motion-plugin": "Not an installable DSH plugin — a source-file motion patch applied to the DSH installation via a patcher script; stays in the catalog and leaderboard, excluded from the downstream market.",
     "Ya-MiC/zhanzhen": "Not an installable DSH plugin — an accounting-audit risk platform (FastAPI + Vue3 with pip/exe distribution) that only ships a small dsh-plugin adapter subfolder; stays in the catalog and leaderboard, excluded from the downstream market.",
@@ -2141,7 +2139,7 @@
     "yueyexiayu/dsh-shichang": "A read-only in-app plugin catalog/market panel for DSH Desktop — the market cannot include another market; stays in the catalog and leaderboard, excluded from the downstream market.",
     "yyh-001/DSH-X": "Not an installable DSH plugin — a desktop shell/launcher; stays in the catalog and leaderboard, excluded from the downstream market.",
     "jianjianzhu/dsh-harness-ui": "Includes a built-in plugin marketplace (browses the dsh-plugin topic) — the market cannot include another market; stays in the catalog, kept off the star board and the downstream market.",
-    "VDERR/echocat-skill-panel-3.0": "A skill panel with one-click skill-install flows (GitHub / ZIP / SKILL.md URLs) — the market cannot include another market; stays in the catalog, kept off the star board and the downstream market.",
+    "VDERR/echocat-skill-panel": "A skill panel with one-click skill-install flows (GitHub / ZIP / SKILL.md URLs) — the market cannot include another market; stays in the catalog, kept off the star board and the downstream market.",
     "LX2000WASD/dsh-plugin-manager-companion": "A DSH plugin market / directory / store — the market cannot include another market; stays in the catalog and leaderboard, excluded from the downstream market."
   }
 }

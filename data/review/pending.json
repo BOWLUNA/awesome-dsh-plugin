@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:53:31.049Z",
+  "generated_at": "2026-09-21T15:59:34.762Z",
   "snapshot_date": "2026-09-21",
   "pending": [
     {
@@ -686,23 +686,6 @@
     },
     {
       "first_seen": "2026-09-21",
-      "full_name": "VDERR/echocat-skill-panel",
-      "html_url": "https://github.com/VDERR/echocat-skill-panel",
-      "description": "DSH 技能调用审计 + 应用内 skill 管理器",
-      "language": "JavaScript",
-      "stargazers_count": 201,
-      "forks_count": 6,
-      "license": "MIT",
-      "created_at": "2026-09-18T00:02:34Z",
-      "pushed_at": "2026-09-21T06:17:59Z",
-      "topics": [
-        "cordis",
-        "deepseek-harness",
-        "dsh-plugin"
-      ]
-    },
-    {
-      "first_seen": "2026-09-21",
       "full_name": "VoidPrim/dsh-wsl-windows-folder-picker",
       "html_url": "https://github.com/VoidPrim/dsh-wsl-windows-folder-picker",
       "description": "Windows folder picker for dsh on WSL",
@@ -738,26 +721,6 @@
         "deepseek-harness",
         "dsh",
         "dsh-plugin"
-      ]
-    },
-    {
-      "first_seen": "2026-09-21",
-      "full_name": "XDTrees/dsh-workbuddy-xdpool",
-      "html_url": "https://github.com/XDTrees/dsh-workbuddy-xdpool",
-      "description": "将 WorkBuddy 桌面 App 里登录过的所有账号自动并入一个 DeepSeek Harness 模型池：无需任何手动配置，你在 WorkBuddy 桌面登录的每个账号都会成为一个池成员；某个账号被限流（429）时，请求会自动切换到下一个可用账号，实现多账号自动容错轮换。",
-      "language": "TypeScript",
-      "stargazers_count": 13,
-      "forks_count": 4,
-      "license": "MIT",
-      "created_at": "2026-09-04T09:28:58Z",
-      "pushed_at": "2026-09-21T13:12:45Z",
-      "topics": [
-        "codebuddy",
-        "dsh-plugin",
-        "failover",
-        "model-provider",
-        "multi-account",
-        "workbuddy"
       ]
     },
     {
@@ -1276,26 +1239,6 @@
         "kline",
         "quant",
         "stock-data"
-      ]
-    },
-    {
-      "first_seen": "2026-09-21",
-      "full_name": "imroc/dsh-embedded-browser",
-      "html_url": "https://github.com/imroc/dsh-embedded-browser",
-      "description": "A shared browser inside the DeepSeek Harness host: the AI drives it with browser_panel_* tools, and you watch or take over the same tab in the DSH Web UI — logins, 2FA, QR codes included.",
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "license": "MIT",
-      "created_at": "2026-09-14T03:35:21Z",
-      "pushed_at": "2026-09-21T09:54:16Z",
-      "topics": [
-        "browser-automation",
-        "chrome-devtools-protocol",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "human-in-the-loop"
       ]
     },
     {
@@ -2357,20 +2300,7 @@
       ]
     }
   ],
-  "missing": [
-    "aosi526/dsh-workbuddy-xdpool",
-    "DWJZ/dsh-mail-reader",
-    "imroc/dsh-browser-panel",
-    "Kuntey/dsh-session-delete",
-    "nexsjournal/dsh-customui-plugin",
-    "nexsjournal/dsh-imagegen-plugin",
-    "sra-research/self-evolving-router-dsh",
-    "valkia/dsh-plugin-computer-use",
-    "valkia/dsh-plugin-git-log",
-    "VDERR/echocat-skill-panel-3.0",
-    "XXLxhPLMM/dsh-start",
-    "yq04/dsh-git-remotes"
-  ],
+  "missing": [],
   "star_anomalies": {
     "snapshot_date": "2026-09-21",
     "previous_snapshot_date": "2026-09-20",
